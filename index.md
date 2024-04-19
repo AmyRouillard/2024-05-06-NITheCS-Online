@@ -13,7 +13,7 @@ humandate: "May 6-10, 2024"    # human-readable dates for the workshop (e.g., "F
 humantime: "9:00 - 13:00 (7:00 - 12:00 UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2024-05-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-05-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Amy Rouillard", "TBA"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Amy Rouillard", "Dimakatso Maheso", "TBA"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["thuthukile.khumalo@nithecs.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://codimd.carpentries.org/2024-05-06-NITheCS-Online# # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
